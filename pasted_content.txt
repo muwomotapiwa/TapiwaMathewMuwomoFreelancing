@@ -1,0 +1,224 @@
+TAPIWA MATHEW MUWOMO
+Certified Salesforce Marketing Cloud Developer | Pardot & x9 Salesforce CRM Certified Professional
+
+Email: muwomotapiwa@gmail.com | Location: Johannesburg
+Trailblazer Profile: salesforce.com/trailblazer/mathewmuwomo | LinkedIn: linkedin.com/in/mathew-muwomo
+
+PROFESSIONAL SUMMARY
+Certified Salesforce Marketing Cloud Developer and Full-Stack Salesforce Professional with 5 years of experience designing and delivering scalable customer engagement solutions. Holds 9 Salesforce certifications including Marketing Cloud Developer, Email Specialist, Account Engagement (Pardot), Platform App Builder, Platform Developer I, Data Cloud Consultant, OmniStudio Consultant, Service Cloud Consultant, and Administrator.
+
+Specializes in end-to-end Marketing Cloud development from lead capture and segmentation to automated journeys, preference centers and integrations with Salesforce CRM, DocuSign, Adobe Sign and external platforms via REST/SOAP APIs. Built dynamic email templates, interactive CloudPages and data-driven automations that improved campaign performance by up to 40%.
+
+Equally proficient as a Salesforce Developer with hands-on expertise in Apex, Lightning Web Components (LWC), Process Builder and Flow. Designed and implemented custom business logic, integrated third-party systems using REST/SOAP APIs and developed reusable UI components for Salesforce Experience Cloud portals. Experienced in building scalable automation workflows, approval processes, and secure API integrations while adhering to governor limits and best practices. Skilled in AMPscript, SSJS, SQL, Journey Builder, Automation Studio and deliverability best practices. Adept at translating business requirements into technical solutions while ensuring compliance with GDPR, and cross-cloud interoperability standards.
+
+CORE SKILLS
+Marketing Cloud Development
+Journey Builder Architecture
+
+Email Studio Configuration
+
+AMPscript/SSJS Logic
+
+CloudPages Implementation
+
+Data Extensions & SQL
+
+Segmentation
+
+Contact Builder Modeling
+
+Preference Center Development
+
+Automation Studio Workflows
+
+Email Deliverability Setup (SPF/DKIM/DMARC)
+
+Lead Scoring & Nurture Journeys
+
+REST/SOAP API Integrations
+
+Salesforce Development
+Apex Triggers & Classes
+
+Lightning Web Components (LWC)
+
+LWC Lifecycle Hooks & Events
+
+Wire Adapters for Data Fetching
+
+Process Builder & Flow Automation
+
+Platform App Builder Customizations
+
+Validation Rules & Formula Fields
+
+Visualforce Pages (Legacy Support)
+
+Security Model & Permission Sets
+
+Change Sets & DX Deployments
+
+CRM & Integrations
+Sales Cloud Configuration
+
+Service Cloud Setup
+
+Pardot Connector & Sync
+
+DocuSign & Adobe Sign Integration
+
+REST/SOAP API Development
+
+Connected Apps & OAuth 2.0
+
+External System Synchronization
+
+CPQ Configuration
+
+Field Service Lightning (FSL)
+
+OmniStudio Consultant
+
+Tools & Certifications
+Salesforce Certified Marketing Cloud Developer
+
+Salesforce Certified Marketing Cloud Email Specialist
+
+Salesforce Certified Account Engagement (Pardot) Specialist
+
+Salesforce Certified Platform App Builder
+
+Salesforce Certified Platform Developer I
+
+Salesforce Certified Administrator
+
+Salesforce Certified Service Cloud Consultant
+
+Salesforce Certified Data Cloud Consultant
+
+Salesforce Certified OmniStudio Consultant
+
+Visual Studio Code
+
+Postman API Testing
+
+Trailhead & DX CLI
+
+KEY ACHIEVEMENTS
+Boosted Customer Engagement: Leveraged Salesforce Marketing Cloud's Journey Builder to design personalized customer journeys, resulting in a 40% increase in engagement over 6 months.
+
+Enhanced Data Segmentation: Optimized audience targeting by implementing advanced SQL queries in Marketing Cloud, improving segmentation accuracy by 25% and campaign relevance.
+
+Reduced Unsubscribe Rates: Built and deployed a dynamic preference center using CloudPages and AMPscript, successfully reducing unsubscribe rates by 15% while ensuring compliance with data privacy standards.
+
+Streamlined Campaign Launches: Integrated Marketing Cloud with Salesforce CRM and external platforms via REST/SOAP APIs, increasing campaign launch efficiency by 30% through automated data flows.
+
+PROFESSIONAL EXPERIENCE
+Salesforce Marketing Cloud Developer & Admin
+Tetrad Group | 2022-Present
+Full-cycle Salesforce Marketing Cloud developer and administrator delivering scalable CRM solutions, campaign automation and system integrations for multiple enterprise programs across the UK and Africa.
+
+Marketing Cloud Development
+Led multi-phase Marketing Cloud implementations for global B2B clients, developing journeys, API integrations and branded email templates.
+
+Built interactive CloudPages for lead capture, gated content, surveys and consent management using AMPscript and SSJS.
+
+Developed dynamic, mobile-friendly email templates with personalized content blocks, boosting open rates and engagement.
+
+Integrated Marketing Cloud with Salesforce CRM and third-party systems via REST/SOAP APIs, improving data sync accuracy by 30%.
+
+Configured SPF, DKIM and DMARC records to enhance deliverability and reduce unsubscribe rates by 15-20%.
+
+Automated audience segmentation using SQL queries, Contact Builder models and Automation Studio workflows.
+
+Created custom dashboards and reporting views to monitor campaign performance, bounce trends and ROI metrics.
+
+Salesforce Administration & Development
+Managed Salesforce org for 500+ users across Sales, Service and Experience Cloud, including user provisioning and access control.
+
+Designed scalable data models with validation rules, roll-up summaries and formula fields to support automation logic.
+
+Developed and deployed Lightning Web Components (LWC) for responsive Experience Cloud Interfaces and data-driven UI components.
+
+Built Apex triggers and classes (Batch, Queueable, Scheduled) for business-critical automations with proper governor handling.
+
+Automated business processes using Flow, Process Builder and multi-step approval processes, reducing admin workload by 30%.
+
+Integrated DocuSign and Adobe Sign for digital signature flows and contract lifecycle management.
+
+Led deployments using Salesforce DX, CI/CD pipelines and versioned unlocked packages for scalable change management.
+
+Salesforce Pardot Consultant & Email Specialist Role
+Client Projects | 2022-Present
+
+Pardot-Salesforce Integration: Implemented and configured the Pardot connector to enable seamless lead synchronization and automated assignment between Pardot and Salesforce CRM.
+
+Lead Nurturing & Scoring: Developed a comprehensive B2B marketing automation strategy using Pardot, including dynamic content, scoring models and engagement programs to accelerate MQL conversion.
+
+Form & Landing Page Optimization: Built and deployed responsive Pardot forms and landing pages with embedded tracking, progressive profiling and campaign tagging to improve lead capture and attribution.
+
+Nurture Journey Design: Designed multi-step Engagement Studio journeys for onboarding, re-engagement and win-back, resulting in higher email engagement and lead qualification rates.
+
+Compliance & Deliverability: Set up domain authentication, subscription preferences and GDPR/POPIA-aligned forms to ensure compliance and improve email deliverability.
+
+EDUCATION, WORK & COMMUNITY WORK
+Academic Background
+Bachelor of Commerce (Economics)
+
+Midlands State University, Zimbabwe
+
+SAQA Equivalent: Bachelor of Technology in Economics
+
+Specialized in economic modeling and business analytics
+
+Research focused on data-driven decision-making
+
+Coursework in statistical analysis and forecasting
+
+Business Consulting
+Business Consultant
+
+Parson Cross (2020-2022)
+
+Leveraged Salesforce Admin best practices to translate business requirements into technical CRM solutions
+
+Optimized CRM workflows for SMB clients using Salesforce reports, dashboards and automation tools
+
+Bridged communication gaps between stakeholders and development teams by aligning business goals with Salesforce capabilities
+
+Community Contribution
+Technology Volunteer
+
+Local Churches & Non-Profits
+
+Developed and maintain 5+ responsive church websites
+
+Implemented donation systems and event calendars
+
+Provide ongoing technical support and maintenance
+
+Created digital content management systems for volunteers
+
+Mentored youth in basic web development skills
+
+CERTIFICATIONS
+Salesforce Certified Administrator
+
+Salesforce Certified Marketing Cloud Email Specialist
+
+Salesforce Certified Marketing Cloud Account Engagement Specialist
+
+Salesforce Certified Marketing Cloud Developer
+
+Salesforce Certified Data Cloud Consultant
+
+Salesforce Certified Platform Developer 1
+
+Salesforce Certified Platform App Builder
+
+Salesforce Certified OmniStudio Consultant
+
+Salesforce Certified Service Cloud Consultant
+
+© 2024 Tapiwa Mathew Muwomo. All rights reserved.
+Online CV crafted with ❤️ by Tapiwa M. Muwomo
